@@ -124,7 +124,7 @@ def generatereport(data):
   flag3=drowsiness()
   # f.close()
 
-  !pip install fpdf
+#   !pip install fpdf
 
   from fpdf import FPDF
   pdf = FPDF()
