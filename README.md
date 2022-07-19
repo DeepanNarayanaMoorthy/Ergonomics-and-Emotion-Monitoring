@@ -77,3 +77,9 @@ Start the server
 
 - [Deepan Narayanamoorthy](https://github.com/DeepanNarayanaMoorthy)
 - [Shankar Narayanan D](https://github.com/dshankar4)
+
+## Tech Stack
+
+**Client:** Streamlit
+
+**Server:** Python, Tensorflow, OpenCV
