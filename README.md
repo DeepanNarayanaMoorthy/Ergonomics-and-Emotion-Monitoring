@@ -84,7 +84,7 @@ Start the server
 - **cognitio_auth.py**: AWS DynamoDB and Cognito functions
 - **face_train.py**: Function to create face recognition data
 - **multipage.py**: StreamLit Class to implement multiple page application
-- 
+
 ## Authors
 
 - [Deepan Narayanamoorthy](https://github.com/DeepanNarayanaMoorthy)
