@@ -4,7 +4,11 @@ An application developed to improve and notify users about incorrect posture. Em
 
 In order to examine and reduce risks related to the ergonomics of a person's home workstation, this project intends to create an assessment tool. It guarantees that everyone can evaluate their posture and receive assistance in correcting it in order to avoid developing musculoskeletal disorders. Based on industry-standard ergonomics assessment procedures like Rapid Upper Limb Assessment (RULA) and Rapid Entire Body Assessment, this programme determines whether a person's posture is unsafe or not using live webcam video of them (REBA).
 
+## Emotion and Drowsiness analysis
+
 This also includes emotion and drowsiness analysis, where the software tracks your emotions over the course of the run and produces a report on your mental condition. The drowsiness detection component assists in alerting your mobile device if it determines that you are fatigued or not.
+
+## Privacy
 
 To ensure privacy, only your face will be tracked because live face tracking is enabled in this location. The face tracking data is securely encrypted, and the key is kept in the AWS Cognitio entries. The user can switch to private mode if he does not want to see videos or receive live feeds. and Only the coordinate data is transferred to the cloud from the camera's edge device (local computer), not the camera's video stream, which is instead transformed into coordinates. 
 
